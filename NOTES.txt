@@ -1,0 +1,7 @@
+Akun Admin
+email : husna@gmail.com
+password : admin12345
+
+Akun User
+email : risalatul.husna.brb@gmail.com
+password : risahusna
